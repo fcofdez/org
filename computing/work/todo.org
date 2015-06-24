@@ -1,0 +1,7 @@
+* Devops
+** Configure grafana dashboards
+** Stability on all servers
+** Fix files deletion on upcoder
+** Configure jenkins
+*** Write dockerfile/reuse
+*** Try to reconfigure integration testing
